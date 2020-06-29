@@ -8,7 +8,7 @@ import java.util.*;
  *    확산결과는 따로 map에 저장
  *2) 확산결과를 저장해준다.
  *3) 공기청정기로 미세먼지를 옮겨준다. 
- * for github test
+ * for github test!!!
  * */
 class pair{
 	int x;
